@@ -16,7 +16,7 @@ With this application you can know the weather in any city in the world. The app
 - saving city weather cards in the browser.
 
 ## Used technology stack:
- - React(React-hooks: useState, useEffect);
+ - React(React-Router, React-hooks: useState, useEffect);
  - Redux(with Redux-Thunk);
  - Fetch API;
  - Localstorage
