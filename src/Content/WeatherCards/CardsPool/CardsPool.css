@@ -1,0 +1,23 @@
+.container-fluid .cards-pool {
+    background-color: #fff;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: start;
+    margin: 0;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container-fluid .cards-pool:last-child{
+    margin-right: auto;
+}
+
+@media (max-width: 767px) { 
+    .container-fluid .cards-pool {
+        justify-content: center;
+    }
+    .container-fluid .cards-pool:last-child{
+        margin: 0;
+    }
+  }

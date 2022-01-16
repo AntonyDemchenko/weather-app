@@ -1,0 +1,91 @@
+.container-fluid.card {    
+    margin: 5px;
+    padding: 10px;
+    width: 220px;
+    height: 250px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
+    box-shadow: 0 0 5px 1px rgba(200, 204, 204, 1);
+    transition: 0.1s;
+}
+
+.container-fluid.card:hover{
+    transform: scale(105%);
+    transition: 0.1s;
+}
+
+.router-btn {
+    border: 1px solid black;
+    width: 90%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    /* text-transform: none; */
+    text-decoration: none;
+    color: grey;
+}
+.router-btn:hover{
+    text-decoration: none;
+    color:gray
+}
+
+.router-btn:active {
+    transform: scale(95%);
+    margin: 5px 0;
+}
+
+.card-btns {
+    width: 90%;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.card-btns button {
+    background-color: #fff;
+    width: 25px;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+
+}
+
+.card-btns button:active{
+    transform: scale(95%);
+}
+
+/* .update-btn {
+   
+}
+
+.delete-btn {
+   
+} */
+
+.card-btn-img {
+    width: 25px;
+    height: 25px;
+}
+
+.city-name {
+    font-style: 15px;
+    color: rgb(149, 149, 209);
+}
+
+.weather {
+    color: grey;
+    margin: 0;
+}
+
+.weather-img {
+    width: 60px;
+}

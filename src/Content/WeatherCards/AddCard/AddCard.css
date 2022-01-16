@@ -1,0 +1,30 @@
+.container-fluid.add-card{
+    width: 30%;
+    height: 70px;
+    margin: 0;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.add-card-form{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.add-card-input{
+    
+}
+.add-card-submit{
+
+}
+
+@media (max-width: 767px) { 
+    .container-fluid.add-card {
+        width: 100%;
+    }
+  }

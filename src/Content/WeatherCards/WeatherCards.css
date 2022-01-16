@@ -1,0 +1,18 @@
+.weather-cards-title {
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+    text-transform: uppercase;
+}
+
+.container-fluid.weather-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+@media (max-width: 767px) { 
+    .container-fluid.weather-cards {
+        align-items: center;
+    }
+  }

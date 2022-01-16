@@ -1,0 +1,62 @@
+.hourly-weather__item {
+    height: 100%;
+    width: 12.5%;
+    /* border: 1px solid grey; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hourly-weather__item * {
+    /* border: 1px solid grey; */
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.hourly-weather__time-value {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+}
+
+.hourly-weather__icon {
+    display: flex;
+    justify-content: center;
+}
+
+.hourly-weather__img {
+    width: 50px;
+}
+
+.hourly-weather__temp {
+    /* border: 1px solid grey; */
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    position: relative;
+    padding-top: 20px;
+}
+
+.hourly-weather__temp-container {
+    border: 1px solid green;
+    height: 90%;
+}
+
+.hourly-weather__temp-line {
+    border-bottom: 4px solid red;
+    
+    height: 20px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 0;
+    background-color: rgb(108, 163, 226);
+    color: white;
+}
+
+.hourly-weather__temp-value {
+    text-align: center;
+   
+}

@@ -1,0 +1,12 @@
+.container-fluid.content {
+    margin-top: 60px;
+    /* border: 1px solid red; */
+    /* padding: 0 10%; */
+    width: 90%;
+    min-height: 500px;
+  }
+
+  .container-title {
+    text-align: center;
+    color: rgb(87, 100, 216);
+  }
