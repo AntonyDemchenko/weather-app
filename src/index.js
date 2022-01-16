@@ -10,7 +10,7 @@ import { store } from './store/store'
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter >
+      <BrowserRouter basename='/weather-app'>
         <App />
       </BrowserRouter>
     </Provider>
