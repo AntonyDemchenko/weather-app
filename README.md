@@ -38,15 +38,15 @@ Mental health apps tackle diverse issues, and on this basis, they are divided in
 
   - **General mental health applications**
 
-        General mental health applications help to establish self-care through mood control and the implementation of healthy habits. The apps may include diverse features, such as questionnaires, community support, 24/7 chat with licensed psychologists. Numerous self-care tips are aimed at coping with different negative feelings.
+      General mental health applications help to establish self-care through mood control and the implementation of healthy habits. The apps may include diverse features, such as questionnaires, community support, 24/7 chat with licensed psychologists. Numerous self-care tips are aimed at coping with different negative feelings.
 
   - **Addiction recovery applications**
 
-        Breaking bad habits on one’s own efforts can be a task beyond one’s strength, so very often people need additional help. Addiction recovery apps offer trackers, reminders, a supportive community, and a ton of useful information.
+      Breaking bad habits on one’s own efforts can be a task beyond one’s strength, so very often people need additional help. Addiction recovery apps offer trackers, reminders, a supportive community, and a ton of useful information.
 
   - **Anxiety applications**
 
-        Anxiety, frustration, and stress are common things in modern society, therefore there are a number of apps tackling these issues. They offer multiple relaxation exercises and efficient motivation plans, providing positive results by making app users feel confident and calm again.
+      Anxiety, frustration, and stress are common things in modern society, therefore there are a number of apps tackling these issues. They offer multiple relaxation exercises and efficient motivation plans, providing positive results by making app users feel confident and calm again.
 
 - **Multipurpose Mental Health Apps**
 
