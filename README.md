@@ -35,7 +35,7 @@ Mental health apps tackle diverse issues, and on this basis, they are divided in
 - **Mental Self-Improvement Apps**
 
   Self-improvement apps are leveraged to check and monitor general mental state, resolve slight disorders, lead a healthy lifestyle, get motivated, etc. These apps also fall into a few subgroups:
----
+
   - **General mental health applications**
 
         General mental health applications help to establish self-care through mood control and the implementation of healthy habits. The apps may include diverse features, such as questionnaires, community support, 24/7 chat with licensed psychologists. Numerous self-care tips are aimed at coping with different negative feelings.
